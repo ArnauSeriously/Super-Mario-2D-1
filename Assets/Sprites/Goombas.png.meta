@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -109,7 +109,53 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<< HEAD
         width: 16
+=======
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32033368d3b3d0a4e8cd9bcb6210f196
+      internalID: 1966998698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goombas_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af675fe3499634fba95d0bfccc3f08
+      internalID: 556723861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goombas_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 17
+>>>>>>> 96dad96b9c1c0adfcf8c3407f106aeaa6520d26d
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -118,8 +164,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 81e5e1cebf491114ca35330e0144d240
       internalID: 1560297695
+=======
+      spriteID: 5bf52fe06dc61ba44b9f1f20f0b9dcc5
+      internalID: -1487690420
+>>>>>>> 96dad96b9c1c0adfcf8c3407f106aeaa6520d26d
       vertices: []
       indices: 
       edges: []
@@ -135,7 +186,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< HEAD
       Goombas_0: 1560297695
+=======
+      Goombas_2: -1487690420
+      Goombas_0: 1966998698
+      Goombas_1: 556723861
+>>>>>>> 96dad96b9c1c0adfcf8c3407f106aeaa6520d26d
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
